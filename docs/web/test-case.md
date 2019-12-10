@@ -13,4 +13,4 @@
 
 ## 调试功能
 平台提供了类似idea的断点调试功能，可以自由的调试用例。解决了平台化代码调试困难的问题
-<video :src="$withBase('/assets/web/新版调试功能.mp4')" width="720px" controls="controls">浏览器不支持video标签</video>
+<video :src="$withBase('/assets/web/调试精简.mp4')" width="720px" controls="controls">浏览器不支持video标签</video>
