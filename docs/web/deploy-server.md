@@ -4,8 +4,8 @@
 - mysql5.7(必须)
 - redis
 
-<!-- ## 下载
-https://pan.baidu.com/s/11CspmuBy6gZKaYvnIwq8Kg  提取码：e8iw -->
+## 下载
+百度网盘不再维护，请进群（qq群：835208549）下载或自主源码构建
 
 ## 创建Mysql数据库
 create database {db_name}

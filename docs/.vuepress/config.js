@@ -25,7 +25,7 @@ module.exports = {
         //   ] 
         // },
         // { text: '关于', link: '/about/' },
-        { text: 'Github', link: 'https://gitee.com/tuzikuaipao/rabbit_test_platform_server' }      
+        { text: 'Gitee', link: 'https://gitee.com/tuzikuaipao/rabbit_test_platform_server' }      
       ],
       sidebar: {
         '/app/': [

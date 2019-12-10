@@ -4,8 +4,8 @@
 * appium >=1.15 （必须。建议使用最新版本，如果不做app自动化可以不需要）
 * aapt （非必须。若要dump apk信息获取packageName、启动activity等信息，需要将aapt(androidSdk/build-tools/{version})添加到环境变量）
 
-<!-- ## 下载
-https://pan.baidu.com/s/11CspmuBy6gZKaYvnIwq8Kg  提取码：e8iw -->
+## 下载
+百度网盘不再维护，请进群（qq群：835208549）下载或自主源码构建
 
 ## 配置application.yml文件
 - 端口

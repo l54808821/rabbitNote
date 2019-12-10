@@ -2,7 +2,13 @@
 [Rabbit]<!--(https://github.com/opendx)-->是一个开源的自动化测试平台，基于经典技术组合(Spring Boot、Spring Security、MyBatis、Jwt、Vue)，目前版本已支持UI自动化测试。平台采用关键字驱动，测试人员无需任何代码基础，即可轻松完成复杂的自动化测试工作。
 
 <!-- <video :src="$withBase('/assets/新版调试功能.mp4')" width="720px" controls="controls">浏览器不支持video标签</video> -->
+## 服务端演示地址
+因为只有一个服务器，所以只能部署服务端，没有执行端执行用例
+1. 项目地址：http://rabbittest.xyz/public/
+2. 测试密码：admin/admin1
 
+## 联系我们
+交流群： 835208549
 <!-- ## 一张图概括Rabbit
 <img :src="$withBase('/assets/rabbit.png')" class="zoom"> -->
 ## 技术栈
